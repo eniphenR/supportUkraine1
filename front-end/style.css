@@ -171,7 +171,7 @@ nav a {
   width: 33.333%;
   display: table-cell;
   text-align: center;
-  color: #cac7c7;
+  color: #e0e0e0;
   text-decoration: none;
 
   font-weight: bold;
@@ -302,7 +302,7 @@ nav a:nth-child(5):hover ~ #indicator {
   top: 300px;
   left: 25.5%;
   font-size: 17px;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 .p-header{
@@ -312,7 +312,7 @@ nav a:nth-child(5):hover ~ #indicator {
   left: 25.5%;
   right: 40%;
   font-size: 15px;
-  opacity: 0.6;
+  opacity: 0.7;
 }
 
 
@@ -324,11 +324,3 @@ nav a:nth-child(5):hover ~ #indicator {
   height: 600px;
 }
 
-.header-bg-decor{
-  position: absolute;
-  top: 390px;
-  left: 49%;
-  width: 370px;
-  height: 300px;
-  opacity: 0.8;
-}
