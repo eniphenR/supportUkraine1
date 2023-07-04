@@ -338,3 +338,42 @@ nav a:nth-child(5):hover ~ #indicator {
   width: 100%;
   height: 100vh;
 }
+
+.h2-main1{
+  position: absolute;
+  top: 800px;
+  color: #efefef;
+  font-size: 39px;
+  left: 40%;
+}
+
+.foto-main1-1{
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 780px;
+  left: 5%;
+  -moz-user-select: none; 
+  -webkit-user-select: none;
+  -ms-user-select: none; 
+  user-select: none;
+}
+
+.h3-main1-1{
+  position: absolute;
+  top: 1100px;
+  color: #efefef;
+  font-size: 20px;
+  left: 10%;
+}
+
+.p-main1-1{
+  position: absolute;
+  top: 1140px;
+  color: #efefef;
+  font-size: 16px;
+  opacity: 0.85;
+  left: 6%;
+  right: 68%;
+  
+}
