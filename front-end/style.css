@@ -341,7 +341,7 @@ nav a:nth-child(5):hover ~ #indicator {
 
 .h2-main1{
   position: absolute;
-  top: 800px;
+  top: 740px;
   color: #efefef;
   font-size: 39px;
   left: 40%;
@@ -376,4 +376,64 @@ nav a:nth-child(5):hover ~ #indicator {
   left: 6%;
   right: 68%;
   
+}
+
+.h3-main1-2{
+  position: absolute;
+  top: 1100px;
+  color: #efefef;
+  font-size: 20px;
+  left: 43.5%;
+}
+
+.foto-main1-2{
+width: 250px;
+  height: 280px;
+  position: absolute;
+  top: 810px;
+  left: 40%;
+  -moz-user-select: none; 
+  -webkit-user-select: none;
+  -ms-user-select: none; 
+  user-select: none;
+}
+
+.p-main-2{
+  position: absolute;
+  top: 1140px;
+  color: #efefef;
+  font-size: 16px;
+  opacity: 0.85;
+  left: 37%;
+  right: 35%;
+}
+
+.h3-main1-3{
+  position: absolute;
+  top: 1100px;
+  color: #efefef;
+  font-size: 20px;
+  left: 74.5%;
+}
+
+.foto-main1-3{
+  width: 520px;
+  height: 300px;
+  position: absolute;
+  top: 810px;
+  left: 64%;
+  -moz-user-select: none; 
+  -webkit-user-select: none;
+  -ms-user-select: none; 
+  user-select: none;
+}
+
+.p-main1-3{
+  position: absolute;
+  top: 1140px;
+  color: #efefef;
+  font-size: 16px;
+  opacity: 0.85;
+  left: 69%;
+  right: 3%;
 }
