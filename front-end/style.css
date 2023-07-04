@@ -101,6 +101,11 @@ body {
   width: 260px;
   height: 210px;
   left: 5%;
+  -moz-user-select: none; 
+  -webkit-user-select: none;
+  -ms-user-select: none; 
+  user-select: none;
+
 }
 
 
@@ -322,5 +327,14 @@ nav a:nth-child(5):hover ~ #indicator {
   left: 60%;
   width: 600px;
   height: 600px;
+  -moz-user-select: none; 
+  -webkit-user-select: none;
+  -ms-user-select: none; 
+  user-select: none;
 }
 
+.main1{
+  background-color: #101010;
+  width: 100%;
+  height: 100vh;
+}
